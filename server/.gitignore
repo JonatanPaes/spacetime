@@ -36,7 +36,3 @@ lerna-debug.log*
 
 .env
 .vercel
-
-prisma/dev.db
-
-dev.db
