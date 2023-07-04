@@ -1,14 +1,16 @@
 import { ReactNode } from 'react'
-import './globals.css'
+import { cookies } from 'next/headers'
 import {
   Roboto_Flex as Roboto,
   Bai_Jamjuree as BaiJamjuree,
 } from 'next/font/google'
+
 import { Hero } from '@/components/Hero'
 import { Profile } from '@/components/Profile'
 import { Signin } from '@/components/Signin'
 import { Copyright } from '@/components/Copyright'
-import { cookies } from 'next/headers'
+
+import './globals.css'
 
 const roboto = Roboto({ subsets: ['latin'], variable: '--font-roboto' })
 const baiJamjuree = BaiJamjuree({
