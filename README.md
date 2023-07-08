@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="#information_source-como-executar">ℹ️ Como Executar?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#backend">🏧 Back-end</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#como-executar">ℹ️ Como Executar?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#server">🏧 Server</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#mobile">📱 Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#web">💻 Web</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;
@@ -18,7 +18,7 @@
 
 ---
 
-# :information_source: Como Executar?
+# Como Executar?
 
 > Clone o Repositório:
 
@@ -29,7 +29,7 @@ cd spacetime
 npm install
 ```
 
-# :backend: Back-end
+# Server
 O back-end desse projeto é construído em Node.js
 
 ```sh
@@ -46,7 +46,7 @@ npm run dev
 ```
 
 
-# :mobile: Mobile
+# Mobile
 
 Para executar o app mobile do Spacetime precisa estar com serve executando. Utilizamos o Expo, uma ferramenta incrível da comunidade React Native. Além do Expo, é necessário que você utilize algum emulador local ou um dispositivo físico pra visualizar a aplicação.
 
@@ -72,7 +72,7 @@ npm run ios
 npm run start
 ```
 
-# :web: Web
+# Web
 Para executar Web precisa estar com serve executando.
 
 <p align="center">
@@ -92,7 +92,7 @@ No arquivo next.config.js em domains pode ser que tenha que colocar ip local
 npm run dev
 ```
 
-# :tecnologias: Tecnologias
+# Tecnologias
 
 **🏧 Server:**
 
