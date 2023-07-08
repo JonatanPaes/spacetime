@@ -7,7 +7,7 @@ import {
 
 import { Hero } from '@/components/Hero'
 import { Profile } from '@/components/Profile'
-import { SignIn } from '@/components/Signin'
+import { SignIn } from '@/components/SignIn'
 import { Copyright } from '@/components/Copyright'
 
 import './globals.css'
